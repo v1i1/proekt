@@ -153,8 +153,6 @@ namespace CappLog
 
         protected abstract void Init();
 
-        public abstract void Split(string newFileName);
-
         public abstract void Close();
 
         protected abstract void CreateLogTable(SQL SqlClient, string tableName, DataColumn[] DataColumns);

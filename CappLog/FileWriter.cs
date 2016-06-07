@@ -118,11 +118,6 @@ namespace CappLog
             throw new NotImplementedException();
         }
 
-        public override void Split(string newFileName)
-        {
-            throw new Exception(this.GetType().FullName + " does not support split functionality!");
-        }
-
         public override void Close()
         {
             started = false;

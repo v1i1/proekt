@@ -37,7 +37,10 @@ namespace CappLog
 
         public abstract int SetDataSync(ref DataTable LogTable);//
 
-        public abstract void Split(string newFileName);//
+        public virtual void Split(string newFileName)
+        {
+            throw new appLogException(this.GetType().FullName, "Split", "This class does not support Split functionality!");
+        }//
 
         public abstract void Close();//
 

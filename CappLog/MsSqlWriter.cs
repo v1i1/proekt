@@ -98,11 +98,6 @@ namespace CappLog
             }
         }
 
-        public override void Split(string newFileName)
-        {
-            throw new appLogException(this.GetType().FullName, "Split", "This class does not support Split functionality!");
-        }
-
         public override void Close()
         {
             started = false;
