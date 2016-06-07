@@ -1,0 +1,13 @@
+C:\Users\KoKi\Desktop\C#.NET\Sample Test Application\bin\Debug\Sample Test Application.exe
+C:\Users\KoKi\Desktop\C#.NET\Sample Test Application\bin\Debug\Sample Test Application.pdb
+C:\Users\KoKi\Desktop\C#.NET\Sample Test Application\bin\Debug\CappLog.dll
+C:\Users\KoKi\Desktop\C#.NET\Sample Test Application\bin\Debug\cAppSql.dll
+C:\Users\KoKi\Desktop\C#.NET\Sample Test Application\bin\Debug\System.Data.SQLite.dll
+C:\Users\KoKi\Desktop\C#.NET\Sample Test Application\bin\Debug\CappLog.pdb
+C:\Users\KoKi\Desktop\C#.NET\Sample Test Application\bin\Debug\cAppSql.pdb
+C:\Users\KoKi\Desktop\C#.NET\Sample Test Application\obj\Debug\Sample Test Application.csprojResolveAssemblyReference.cache
+C:\Users\KoKi\Desktop\C#.NET\Sample Test Application\obj\Debug\Sample_Test_Application.Properties.Resources.resources
+C:\Users\KoKi\Desktop\C#.NET\Sample Test Application\obj\Debug\Sample Test Application.csproj.GenerateResource.Cache
+C:\Users\KoKi\Desktop\C#.NET\Sample Test Application\obj\Debug\Sample Test Application.exe
+C:\Users\KoKi\Desktop\C#.NET\Sample Test Application\obj\Debug\Sample Test Application.pdb
+C:\Users\KoKi\Desktop\C#.NET\Sample Test Application\obj\Debug\FormTestApplication.resources
